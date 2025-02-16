@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.--->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### Top Languages
 ![op](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinduChamika&theme=radical&layout=compact&langs_count=6&hide_border=true)
