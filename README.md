@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-0E3F8E?style=for-the-badge&logo=pascal&logoColor=white)
 
 ### Profile Views
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SachinduChamika/SachinduChamika)
