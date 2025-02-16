@@ -4,7 +4,7 @@
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F71A3C&center=true&vCenter=true&lines=Software+Engineer;Web+Developer"><br>
-  <a href="https://www.linkedin.com/in/sachindu-chamika-8682a8256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sachindu-chamika-8682a8256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.twitter.com/joybiswas389"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://t.me/JoyBiswas389"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.instagram.com/joybiswas389"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
