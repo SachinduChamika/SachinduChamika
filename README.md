@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
   
 ## 🔥 Some of my Github Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SachinduChamika&theme=radical&hide_border=true)
-</br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinduChamika&show_icons=true&theme=radical&hide_border=true&count_private=true)
 </br>
 
