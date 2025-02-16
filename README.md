@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ### Profile Views
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SachinduChamika/SachinduChamika)
 ### Top Languages
-![op](https://github-readme-stats.vercel.app/api/top-langs/?username=Terminalwarlord&theme=radical&layout=compact&langs_count=6&hide_border=true)
+![op](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinduChamika&theme=radical&layout=compact&langs_count=6&hide_border=true)
 ### Social Accounts
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joybiswas389)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joybiswas390)
