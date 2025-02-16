@@ -13,9 +13,7 @@ You can click the Preview link to take a look at your changes.--->
 </p>
 
 ## 🔥 Some of my Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinduChamika&show_icons=true&theme=radical&hide_border=true&count_private=true)
-</br>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinduChamika&show_icons=true&theme=radical&hide_border=true&count_private=true)</br>
 
 ## 👨‍💻 Programming languages
 ![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)
