@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Profile Views
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TerminalWarlord/TerminalWarlord)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SachinduChamika/SachinduChamika)
 ### Top Languages
 ![op](https://github-readme-stats.vercel.app/api/top-langs/?username=Terminalwarlord&theme=radical&layout=compact&langs_count=6&hide_border=true)
 ### Social Accounts
